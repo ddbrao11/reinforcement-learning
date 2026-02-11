@@ -54,9 +54,4 @@ holes (H).
 
 Read the Medium article: **"Reinforcement Learning Explained: From
 Intuition to Real‑World Applications"**
-
-------------------------------------------------------------------------
-
-##  Author
-
-Bhaskar D
+https://medium.com/@ddbrao11/reinforcement-learning-explained-from-intuition-to-real-world-applications-7f3f4d7813ce?postPublishedType=repub
