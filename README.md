@@ -1,9 +1,9 @@
-# Reinforcement Learning From Scratch 🚀
+# Reinforcement Learning From Scratch
 
 This repository contains a simple Reinforcement Learning (RL) example
 using Q-Learning on the FrozenLake-v1 environment from OpenAI Gymnasium.
 
-## 📌 What This Project Covers
+## What This Project Covers
 
 -   Basic RL concepts (Agent, Environment, Reward, Policy)
 -   Q-Learning implementation
@@ -12,7 +12,7 @@ using Q-Learning on the FrozenLake-v1 environment from OpenAI Gymnasium.
 
 ------------------------------------------------------------------------
 
-## 🛠 Installation
+## Installation
 
 Create a virtual environment (recommended):
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-## ▶️ Run Training
+## Run Training
 
 ``` bash
 python train.py
@@ -41,7 +41,7 @@ performance
 
 ------------------------------------------------------------------------
 
-## 🧠 Environment Used
+## Environment Used
 
 FrozenLake-v1 (4x4 grid)
 
@@ -50,13 +50,13 @@ holes (H).
 
 ------------------------------------------------------------------------
 
-## 📚 Learn More
+##  Learn More
 
 Read the Medium article: **"Reinforcement Learning Explained: From
 Intuition to Real‑World Applications"**
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
 Bhaskar D
